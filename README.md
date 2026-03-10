@@ -1,8 +1,8 @@
-# Penguin Analysis - yippee
+# Yippee Analysis - yippee
 
-A reproducible analysis of morphological measurements from the Palmer Penguins dataset, examining variation in body dimensions across penguin species in the Palmer Archipelago, Antarctica.
+A reproducible analysis of yippee from the yippee dataset, examining variation in yippee dimensions across yippees in the yippee Archipelago, Yippeeland.
 
-<img src="https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png" width=50%>
+<img src="https://static.wikia.nocookie.net/autism/images/d/d9/23959bfcb1622c6657fd28d2b2c65f2b.jpg/revision/latest/scale-to-width-down/340?cb=20240213231617" width=50%>
 
 
 ## About the Data
